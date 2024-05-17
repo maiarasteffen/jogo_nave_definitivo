@@ -32,7 +32,7 @@ O desafio constiste em:
 ### Link
 
 - Código do desenvolvimento: [Jogo Nave](https://github.com/maiarasteffen/jogo_nave_definitivo)
-- Front do projeto: [Front]([https://timely-cocada-db815d.netlify.app/](https://tranquil-cupcake-b114ef.netlify.app/))
+- Front do projeto: [Front](https://tranquil-cupcake-b114ef.netlify.app/)
 
 ## Meu processo
 
